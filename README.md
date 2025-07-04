@@ -1,4 +1,4 @@
-# XKCD Email Subscription System (Assignment Submission)
+# XKCD Email Subscription System
 
 ## 📋 Overview
 This assignment is for the **XKCD Email Subscription System** using **PHP**.
