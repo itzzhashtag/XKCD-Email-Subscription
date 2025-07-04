@@ -1,4 +1,4 @@
-# ✅ Pull Request: XKCD Email Subscription System (Assignment Submission)
+# XKCD Email Subscription System (Assignment Submission)
 
 ## 📋 Overview
 This Pull Request completes the assignment for the **XKCD Email Subscription System** using **PHP**.
