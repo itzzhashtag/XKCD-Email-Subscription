@@ -1,7 +1,7 @@
 # XKCD Email Subscription System (Assignment Submission)
 
 ## 📋 Overview
-This Pull Request completes the assignment for the **XKCD Email Subscription System** using **PHP**.
+This assignment is for the **XKCD Email Subscription System** using **PHP**.
 
 All required features have been implemented **inside the `src/` directory** as per the instructions.
 
