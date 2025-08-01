@@ -1,11 +1,16 @@
-# XKCD Email Subscription System
+<div align="center">
+  
+# 📩 XKCD Email Subscription System
 
-## 📋 Overview
+</div>
+
+<div align="center">  
+
 This assignment is for the **XKCD Email Subscription System** using **PHP**.
-
 All required features have been implemented **inside the `src/` directory** as per the instructions.
 
----
+</div>
+
 
 ## ✨ Implemented Features
 
