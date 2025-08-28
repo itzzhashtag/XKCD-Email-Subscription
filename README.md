@@ -6,7 +6,7 @@
 
 <div align="center">  
 
-This assignment is for the **XKCD Email Subscription System** using **PHP**.
+This assignment is for the **XKCD Email Subscription Systems** using **PHP**.
 All required features have been implemented **inside the `src/` directory** as per the instructions.
 
 </div>
